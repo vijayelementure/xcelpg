@@ -1,4 +1,4 @@
 import boto3
 
 def fun1():
-    return {}
+    return "vijay bhaskar"
